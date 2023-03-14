@@ -1,10 +1,10 @@
-# Modern RESTAURANT Website
+# Modern Restaurant UI
 
 ![badge](https://img.shields.io/badge/REACT%20-App-green)
 
 ## Description
 
-React Modern Restaurant website is a fine dining restaurant landing page built with React, HTML, CSS and BEM modal. The site utilizes functional components to ensure reusability and streamlined user experience. Additionally, use of the BEM modal ensures organized and maintainable CSS coding practices.
+[React Modern Restaurant website](https://modernrestaurant-ui.netlify.app/) is a fine dining restaurant landing page built with React, HTML, CSS and BEM modal. The site utilizes functional components to ensure reusability and streamlined user experience. Additionally, use of the BEM modal ensures organized and maintainable CSS coding practices.
 
 ### Design Provided by: Gericht
 
@@ -12,9 +12,9 @@ React Modern Restaurant website is a fine dining restaurant landing page built w
 
 ## Links for Project
 
-- ### 📌 [LIVE Project Link]()
+- ### 📌 [LIVE Project Link](https://modernrestaurant-ui.netlify.app/)
 
-- ### 📌 [YouTube Link]()
+- ### 📌 [YouTube Link](https://youtu.be/gaOwusC6uDY)
 
 ## Tech Stack
 
@@ -38,9 +38,9 @@ React Modern Restaurant website is a fine dining restaurant landing page built w
 
 ### Landing Page
 
-![Landing Page](./src/assets/Modern-Restaurant-UI.png)
+![Landing Page image](./src/assets/Modern-Restaurant-UI.png)
 
-## Important Information about Design:
+### Important Information about Design:
 
 The design for this website was created by Gericht and is available for free use at [CHECKOUT HERE](https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma). I have used this design and have not modified it in any way that would infringe on the original creator's rights. All credit for the design goes to Gericht , and I encourage others to check out their work.
 
